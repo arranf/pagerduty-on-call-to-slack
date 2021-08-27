@@ -1,0 +1,14 @@
+target/debug
+target/release
+target/arm-unknown-linux-gnueabihf/debug
+
+Dockerfile
+.dockerignore
+.git
+.gitignore
+src
+.env
+.env.example
+scripts
+Cargo.lock
+Cargo.toml
